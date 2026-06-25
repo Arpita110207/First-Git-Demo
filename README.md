@@ -1,4 +1,4 @@
 # First-Git-Demo
 My first Git repository.
 <br>
-Author: Arpita Singh
+Author: Arpita (singh)
